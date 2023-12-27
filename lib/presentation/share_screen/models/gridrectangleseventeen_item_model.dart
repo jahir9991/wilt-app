@@ -1,0 +1,3 @@
+class GridrectangleseventeenItemModel {
+  String? id = "";
+}
