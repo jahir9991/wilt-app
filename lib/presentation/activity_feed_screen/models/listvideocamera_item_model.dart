@@ -1,0 +1,3 @@
+class ListvideocameraItemModel {
+  String? id = "";
+}
